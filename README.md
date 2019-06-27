@@ -1,3 +1,3 @@
 # neat_stonks
 NEAT algorithmic trading bot
-![Alt text](stonks_man.png")
+![Stonks Man](https://github.com/cwgroos/neat_stonks/blob/master/stonks_man.png)
